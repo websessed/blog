@@ -15,11 +15,11 @@
 │   │   ├── 🌍 What projects to build?/
 │   │   ├── 🌍 Time Management/
 │   │   ├── 🌍 Building Noa/
-│   │   ├── 🌍 Building DecentraFi/
 │   │   ├── 🌍 Contributing to OPS/
 │   │   ├── 🌍 Take your time/
 │   │   ├── 🌍 Backup that code/
 │   │   ├── 🌍 On practicing/
+│   │   ├── 🌍 Keep it Minimal/
 │   │   ├── 🌍 How I build fullstack apps/
 │   │   ├── 🌍 Be authentic, Be Yourself/
 │   │   ├── 🌍 Why I don't keep code notes/
